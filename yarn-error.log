@@ -1,0 +1,40 @@
+Arguments: 
+  /home/piemontez/.nvm/versions/node/v18.16.0/bin/node /home/piemontez/.nvm/versions/node/v18.16.0/bin/yarn add -D @nuxtjs/tailwindcss @pinia/nuxt vitest
+
+PATH: 
+  /home/piemontez/.nvm/versions/node/v18.16.0/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.16.0
+
+Platform: 
+  linux x64
+
+Trace: 
+  Error: ENOENT: no such file or directory, open '/home/piemontez/.cache/yarn/v6/npm-source-map-0.7.4-a9bbe705c9d8846f4e08ff6765acf0f1b0898656-integrity/node_modules/source-map/.yarn-tarball.tgz'
+
+npm manifest: 
+  {
+    "name": "nuxt-app",
+    "private": true,
+    "scripts": {
+      "build": "nuxt build",
+      "dev": "nuxt dev",
+      "generate": "nuxt generate",
+      "preview": "nuxt preview",
+      "postinstall": "nuxt prepare"
+    },
+    "devDependencies": {
+      "@types/node": "^18",
+      "nuxt": "^3.5.2"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
