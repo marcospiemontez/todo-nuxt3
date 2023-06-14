@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1686112673871" clover="3.2.0">
-  <project timestamp="1686112673871" name="All files">
+<coverage generated="1686710545005" clover="3.2.0">
+  <project timestamp="1686710545005" name="All files">
     <metrics statements="75" coveredstatements="75" conditionals="12" coveredconditionals="12" methods="6" coveredmethods="6" elements="93" coveredelements="93" complexity="0" loc="75" ncloc="75" packages="1" files="3" classes="3"/>
-    <file name="actions.ts" path="/home/piemontez/Development/todo-nuxt3/src/store/modules/todo/actions.ts">
+    <file name="actions.ts" path="C:\Users\Piemontez\Documents\Desenvolvimento\todo-nuxt3\src\store\modules\todo\actions.ts">
       <metrics statements="41" coveredstatements="41" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
@@ -46,7 +46,7 @@
       <line num="40" count="1" type="stmt"/>
       <line num="41" count="1" type="stmt"/>
     </file>
-    <file name="getters.ts" path="/home/piemontez/Development/todo-nuxt3/src/store/modules/todo/getters.ts">
+    <file name="getters.ts" path="C:\Users\Piemontez\Documents\Desenvolvimento\todo-nuxt3\src\store\modules\todo\getters.ts">
       <metrics statements="22" coveredstatements="22" conditionals="5" coveredconditionals="5" methods="2" coveredmethods="2"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>
@@ -71,7 +71,7 @@
       <line num="21" count="1" type="stmt"/>
       <line num="22" count="1" type="stmt"/>
     </file>
-    <file name="state.ts" path="/home/piemontez/Development/todo-nuxt3/src/store/modules/todo/state.ts">
+    <file name="state.ts" path="C:\Users\Piemontez\Documents\Desenvolvimento\todo-nuxt3\src\store\modules\todo\state.ts">
       <metrics statements="12" coveredstatements="12" conditionals="1" coveredconditionals="1" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="stmt"/>
       <line num="2" count="1" type="stmt"/>

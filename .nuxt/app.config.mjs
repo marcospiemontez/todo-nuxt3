@@ -1,5 +1,5 @@
 
-import { defuFn } from '/home/piemontez/Development/todo-nuxt3/node_modules/defu/dist/defu.mjs'
+import { defuFn } from 'C:/Users/Piemontez/Documents/Desenvolvimento/todo-nuxt3/node_modules/defu/dist/defu.mjs'
 
 const inlineConfig = {}
 
