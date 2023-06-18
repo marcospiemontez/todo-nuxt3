@@ -517,56 +517,56 @@ const assets = {
   "/favicon.ico": {
     "type": "image/vnd.microsoft.icon",
     "etag": "\"10be-n8egyE9tcb7sKGr/pYCaQ4uWqxI\"",
-    "mtime": "2023-06-07T04:36:28.967Z",
+    "mtime": "2023-06-14T02:39:58.720Z",
     "size": 4286,
     "path": "../public/favicon.ico"
   },
   "/_nuxt/entry.abcfe47a.css": {
     "type": "text/css; charset=utf-8",
     "etag": "\"41bc-kNSHrOtU6bYNuZOzzxBOZJODkrs\"",
-    "mtime": "2023-06-07T04:36:28.963Z",
+    "mtime": "2023-06-18T01:09:30.069Z",
     "size": 16828,
     "path": "../public/_nuxt/entry.abcfe47a.css"
   },
   "/_nuxt/entry.e4111908.js": {
     "type": "application/javascript",
     "etag": "\"3044d-3raFhwqNyJrBZvdOc/fE4QSXltg\"",
-    "mtime": "2023-06-07T04:36:28.963Z",
+    "mtime": "2023-06-18T01:09:30.070Z",
     "size": 197709,
     "path": "../public/_nuxt/entry.e4111908.js"
   },
   "/_nuxt/error-404.8bdbaeb8.css": {
     "type": "text/css; charset=utf-8",
     "etag": "\"e70-jl7r/kE1FF0H+CLPNh+07RJXuFI\"",
-    "mtime": "2023-06-07T04:36:28.963Z",
+    "mtime": "2023-06-18T01:09:30.069Z",
     "size": 3696,
     "path": "../public/_nuxt/error-404.8bdbaeb8.css"
   },
   "/_nuxt/error-404.dd9c5e95.js": {
     "type": "application/javascript",
     "etag": "\"1968-uugBFKdi/+eRj7uincchb43HqYo\"",
-    "mtime": "2023-06-07T04:36:28.963Z",
+    "mtime": "2023-06-18T01:09:30.069Z",
     "size": 6504,
     "path": "../public/_nuxt/error-404.dd9c5e95.js"
   },
   "/_nuxt/error-500.7d6f0741.js": {
     "type": "application/javascript",
     "etag": "\"756-0d1+A7BOr389qg4tdlojL4p9OsY\"",
-    "mtime": "2023-06-07T04:36:28.963Z",
+    "mtime": "2023-06-18T01:09:30.069Z",
     "size": 1878,
     "path": "../public/_nuxt/error-500.7d6f0741.js"
   },
   "/_nuxt/error-500.b63a96f5.css": {
     "type": "text/css; charset=utf-8",
     "etag": "\"7e0-loEWA9n4Kq4UMBzJyT6hY9SSl00\"",
-    "mtime": "2023-06-07T04:36:28.963Z",
+    "mtime": "2023-06-18T01:09:30.069Z",
     "size": 2016,
     "path": "../public/_nuxt/error-500.b63a96f5.css"
   },
   "/_nuxt/error-component.12e9660f.js": {
     "type": "application/javascript",
     "etag": "\"45e-8sAcYWfZcTlaCFajMdqPGddQ1oo\"",
-    "mtime": "2023-06-07T04:36:28.963Z",
+    "mtime": "2023-06-18T01:09:30.069Z",
     "size": 1118,
     "path": "../public/_nuxt/error-component.12e9660f.js"
   }
@@ -666,12 +666,12 @@ const _f4b49z = eventHandler((event) => {
   return readAsset(id);
 });
 
-const _lazy_ze1Vlt = () => import('../handlers/renderer.mjs');
+const _lazy_70o5Nk = () => import('../handlers/renderer.mjs');
 
 const handlers = [
   { route: '', handler: _f4b49z, lazy: false, middleware: true, method: undefined },
-  { route: '/__nuxt_error', handler: _lazy_ze1Vlt, lazy: true, middleware: false, method: undefined },
-  { route: '/**', handler: _lazy_ze1Vlt, lazy: true, middleware: false, method: undefined }
+  { route: '/__nuxt_error', handler: _lazy_70o5Nk, lazy: true, middleware: false, method: undefined },
+  { route: '/**', handler: _lazy_70o5Nk, lazy: true, middleware: false, method: undefined }
 ];
 
 function createNitroApp() {

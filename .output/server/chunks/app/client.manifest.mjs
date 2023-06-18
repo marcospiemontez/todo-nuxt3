@@ -51,7 +51,7 @@ const client_manifest = {
       "entry.abcfe47a.css"
     ],
     "dynamicImports": [
-      "virtual:nuxt:/home/piemontez/Development/todo-nuxt3/.nuxt/error-component.mjs"
+      "virtual:nuxt:C:/Users/Piemontez/Documents/Desenvolvimento/todo-nuxt3/.nuxt/error-component.mjs"
     ],
     "file": "entry.e4111908.js",
     "isEntry": true,
@@ -61,7 +61,7 @@ const client_manifest = {
     "file": "entry.abcfe47a.css",
     "resourceType": "style"
   },
-  "virtual:nuxt:/home/piemontez/Development/todo-nuxt3/.nuxt/error-component.mjs": {
+  "virtual:nuxt:C:/Users/Piemontez/Documents/Desenvolvimento/todo-nuxt3/.nuxt/error-component.mjs": {
     "resourceType": "script",
     "module": true,
     "dynamicImports": [
@@ -73,7 +73,7 @@ const client_manifest = {
       "node_modules/nuxt/dist/app/entry.js"
     ],
     "isDynamicEntry": true,
-    "src": "virtual:nuxt:/home/piemontez/Development/todo-nuxt3/.nuxt/error-component.mjs"
+    "src": "virtual:nuxt:C:/Users/Piemontez/Documents/Desenvolvimento/todo-nuxt3/.nuxt/error-component.mjs"
   }
 };
 
